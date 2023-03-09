@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrn-code&label=Profile%20views&color=0e75b6&style=flat" alt="zrn-code" /> </p>
 
+- 🏫 I’m a freshman studying at National Yang Ming Chiao Tung University.
+
 - 🔭 I’m currently working on [Zrn Code](https://zrn-code.github.io)
 
 - 🌱 I’m currently learning **Framework, and other cool things**
