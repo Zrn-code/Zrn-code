@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zrn(葉致宏)</h1>
+<h1 align="center">Hi 👋, I'm Zrn</h1>
 <h3 align="center">A passionate frontend/backend developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrn-code&label=Profile%20views&color=0e75b6&style=flat" alt="zrn-code" /> </p>
